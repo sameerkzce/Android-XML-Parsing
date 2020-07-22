@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sooryen App</string>
+    <string name="alert">Alert</string>
+    <string name="btn_ok">OK</string>
+    <string name="error_no_network">No Network Connection Available</string>
+    <string name="preference">sharedPreference</string>
+    <string name="isSyncDone">isSyncDone</string>
+    <string name="msg_empty_messages">No Data Found</string>
+
+</resources>
